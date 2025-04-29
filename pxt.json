@@ -7,9 +7,10 @@
     },
     "files": [
         "README.md",
-        "MFRC522.ts",
+        "mfrc522.ts", 
         "_locales/de/pxt-mfrc522-jsdoc-strings.json",
-        "_locales/de/pxt-mfrc522-strings.json"
+        "_locales/de/pxt-mfrc522-strings.json",
+        "icon.png"
     ],
     "testFiles": [
         "test.ts"
